@@ -1,0 +1,8 @@
+.center-content {
+    display: flex;
+    flex-direction: column; /* Stacks the components vertically */
+    justify-content: center; /* Centers vertically */
+    align-items: center; /* Centers horizontally */
+    height: 100vh; /* Full viewport height */
+  }
+  
